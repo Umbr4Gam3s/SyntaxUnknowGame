@@ -1,2 +1,2 @@
 Note: 
-For the time being both Nullspace and Syntax: Unknown will not be receiving updates.
+This game is now abandoned.
